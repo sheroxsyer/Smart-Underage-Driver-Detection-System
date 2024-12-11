@@ -1,0 +1,7 @@
+# Ignore virtual environment
+my_venv/
+
+# Ignore large model files and others
+yolov3.weights
+*.pyd
+*.dll
